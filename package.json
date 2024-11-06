@@ -1,0 +1,16 @@
+{
+  "name": "projectcypressmini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run --browser firefox --headed" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.2"
+  }
+}
